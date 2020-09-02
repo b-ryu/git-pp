@@ -1,5 +1,17 @@
 # git-pp
 
-A simple Firefox extension for changing the GitHub homepage UI.
+A simple browser extension for changing the GitHub homepage UI.
 
-Namely, adding a big button that takes you to your profile page in a single click.
+Namely, adding a button that takes you to your profile page in a single click.
+
+## Links
+
+- [Firefox]()
+
+## Screenshots
+
+### Firefox
+
+| Before                              | After                              |
+| ----------------------------------- | ---------------------------------- |
+| ![](screenshots/firefox-before.png) | ![](screenshots/firefox-after.png) |
